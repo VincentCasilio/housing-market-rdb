@@ -24,6 +24,7 @@ The original implementation used AWS S3 for source-data storage and PostgreSQL h
 ## Database Schema
 
 ![Housing Market Relational Database Schema](docs/schema.png)
+The schema reflects the original PostgreSQL implementation; minor column names were standardized in the portfolio version for clarity and consistency.
 
 The database integrates five primary tables:
 
